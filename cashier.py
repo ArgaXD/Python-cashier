@@ -32,5 +32,4 @@ else:
 
 
 #still unfinished lmao 
- #Kaprika
  #i made this just for speedrun
